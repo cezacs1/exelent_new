@@ -4264,7 +4264,7 @@
       },
       "C_EconEntity": {
         "fields": {
-          "m_AttributeManager": 4480,
+          "m_AttributeManager": 4608,
           "m_OriginalOwnerXuidHigh": 5716,
           "m_OriginalOwnerXuidLow": 5712,
           "m_bAttachmentDirty": 5776,
